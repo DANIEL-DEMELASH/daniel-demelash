@@ -3,7 +3,8 @@
 - 👋 Hi I'm Daniel Demelash
 - 🔭 I’m currently working on Mobile App Development
 - 👯 I’m looking to collaborate on Flutter
-- 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/daniel-demelash/) [Telegram](https://t.me/dani2_9)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/daniel-demelash/" target="_blank">My LinkedIn Profile</a> <a href="https://t.me/dani2_9" target="_blank">Telegram</a>
+
 <!--
 I'm a dedicated and detail-oriented Flutter developer with over 3 years of experience creating beautiful, high-performance cross-platform mobile apps. I specialize in building pixel-perfect UIs that not only look great but also provide a seamless user experience.
 
